@@ -2,6 +2,5 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import '_base';
-@import '_layout';
-@import '_syntax-highlighting';
+@import 'main';
+@import 'syntax';
