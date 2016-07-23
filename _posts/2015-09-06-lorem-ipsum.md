@@ -26,3 +26,8 @@ updated: 2015-09-06 15:56
 > Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi
 
 **NOTE:** This theme does NOT support nested blockquotes.
+
+```python
+def numberOfEvenDigits(n):
+    return len(filter(lambda m: m.isdigit() and int(m) % 2 == 0, str(n)))
+```
