@@ -8,10 +8,15 @@ This is Markdown *Cheatsheet* `Demo` for **The Plain**, this ***Jekyll*** theme.
 \# **Headings** 1 to 6 (# - ######)
 
 # H1 Heading 
+
 ## H2 Heading
+
 ### H3 Heading
+
 #### H4 Heading
+
 ##### H5 Heading
+
 ###### H6 Heading
 
 ---
