@@ -20,8 +20,6 @@ This is Markdown *Cheatsheet* `Demo` for **The Plain**, this ***Jekyll*** theme.
 ###### H6 Heading
 
 
----
-
 ## Blockquote
 
     > Block quote test
