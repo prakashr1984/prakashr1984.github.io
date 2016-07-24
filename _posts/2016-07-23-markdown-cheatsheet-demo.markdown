@@ -19,7 +19,9 @@ This is Markdown *Cheatsheet* `Demo` for **The Plain**, this ***Jekyll*** theme.
 
 ###### H6 Heading
 
+
 ---
+
 ## Blockquote
 
     > Block quote test
@@ -27,6 +29,7 @@ This is Markdown *Cheatsheet* `Demo` for **The Plain**, this ***Jekyll*** theme.
 > Block quote test
 
 ---
+
 ## Footnote  [\^1]
 
 Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
