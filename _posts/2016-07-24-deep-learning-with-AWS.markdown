@@ -2,6 +2,7 @@
 published: true
 title: Deep Learning with AWS
 layout: post
+tags: [deeplearning, docker]
 ---
 
 *original article*

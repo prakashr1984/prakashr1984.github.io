@@ -1,3 +1,9 @@
+---
+published: true
+title: Markdown cheatsheet demo
+layout: post
+tags: [markdown, jekyll, cheatsheet]
+---
 
 This is Markdown \*Cheatsheet* \`Demo\` for \*\*The Plain**, this \*\*\*Jekyll*** theme. Please check the raw content of this file for the markdown usage.
 

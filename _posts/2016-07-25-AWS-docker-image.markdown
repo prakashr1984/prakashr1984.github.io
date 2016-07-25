@@ -1,3 +1,9 @@
+---
+published: true
+title: AWS docker image
+layout: post
+tags: [deeplearning, AWS, docker]
+---
 
 ## My Deep Learning AWS docker image
 
