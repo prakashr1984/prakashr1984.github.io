@@ -1,6 +1,6 @@
 ---
 published: true
-title: Markdown cheatsheet demo
+title: Markdown cheatsheet demo1
 layout: post
 tags: [markdown, jekyll, cheatsheet]
 ---
